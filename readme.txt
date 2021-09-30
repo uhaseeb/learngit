@@ -1,4 +1,4 @@
-What is Notepad++?
+                     What is Notepad++?
 ******************
 
 Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement (https://npp-user-manual.org/docs/other-resources/#notepad-replacement) that supports several programming languages and natural languages. Running in the MS Windows environment, its use is governed by GPL (GNU General Public License).my name is haseeb
